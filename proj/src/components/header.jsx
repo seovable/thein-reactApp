@@ -1,13 +1,13 @@
 function Header() {
   return (
     <header className="header">
-      <h2>⚾ BaseMate</h2>
+      <h1>⚾ Seohyun Baseball</h1>
 
       <nav>
-        <a href="#">홈</a>
-        <a href="#">직관모집</a>
+        <a href="#">HOME</a>
         <a href="#">경기일정</a>
-        <a href="#">마이페이지</a>
+        <a href="#">순위</a>
+        <a href="#">뉴스</a>
       </nav>
     </header>
   );
