@@ -22,9 +22,7 @@ function App() {
           <MatchCard key={index} game={game} />
         ))}
       </section>
-
       <RankingTable />
-
       <Footer />
     </>
   );
